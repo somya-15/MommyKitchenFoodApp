@@ -16,11 +16,11 @@ Main features of this android application are:
 UI of the application:
 <br>
 
-![WhatsApp Image 2020-10-22 at 10 45 00 PM (1)](https://user-images.githubusercontent.com/73076997/96908405-39bb9780-14ba-11eb-9950-55e210744096.jpeg)
+![Preview1](https://user-images.githubusercontent.com/73076997/96908405-39bb9780-14ba-11eb-9950-55e210744096.jpeg)
 <br>
-![WhatsApp Image 2020-10-22 at 10 44 47 PM](https://user-images.githubusercontent.com/73076997/96908413-3c1df180-14ba-11eb-83d7-5408903d1805.jpeg)
+![Preview2](https://user-images.githubusercontent.com/73076997/96908413-3c1df180-14ba-11eb-83d7-5408903d1805.jpeg)
 <br>
-![WhatsApp Image 2020-10-22 at 10 46 29 PM](https://user-images.githubusercontent.com/73076997/96908427-3e804b80-14ba-11eb-9539-dbab8a24418f.jpeg)
+![Preview3](https://user-images.githubusercontent.com/73076997/96908427-3e804b80-14ba-11eb-9539-dbab8a24418f.jpeg)
 <br>
-![WhatsApp Image 2020-10-22 at 10 45 00 PM (2)](https://user-images.githubusercontent.com/73076997/96908436-40e2a580-14ba-11eb-923a-9bbb8aa94ab8.jpeg)
-<br>
+![Preview4](https://user-images.githubusercontent.com/73076997/96908436-40e2a580-14ba-11eb-923a-9bbb8aa94ab8.jpeg)
+
