@@ -20,7 +20,6 @@ UI of the application:
 <br>
 ![Preview2](https://user-images.githubusercontent.com/73076997/96908413-3c1df180-14ba-11eb-83d7-5408903d1805.jpeg)
 <br>
-![Preview3](https://user-images.githubusercontent.com/73076997/96908427-3e804b80-14ba-11eb-9539-dbab8a24418f.jpeg)
-<br>
 ![Preview4](https://user-images.githubusercontent.com/73076997/96908436-40e2a580-14ba-11eb-923a-9bbb8aa94ab8.jpeg)
-
+<br>
+![Preview3](https://user-images.githubusercontent.com/73076997/96908427-3e804b80-14ba-11eb-9539-dbab8a24418f.jpeg)
