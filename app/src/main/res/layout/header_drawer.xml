@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="240dp"
+    android:orientation="vertical"
+    android:background="@color/myThemeColor">
+
+    <TextView
+        android:id="@+id/txtFoodAppNameDrawerHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="cursive"
+        android:padding="20dp"
+        android:text="@string/foodapp_name"
+        android:textColor="@color/myThemeTextColor"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/imgMommyChef"
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:src="@drawable/mommy_chef"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="Tasty and Healthy Food!!!"
+        android:textColor="@color/myThemeTextColor"
+        android:textSize="23sp"
+        android:layout_toRightOf="@+id/imgMommyChef"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/llContent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:orientation="horizontal"
+    android:background="@color/myThemeColor"
+    android:weightSum="6">
+
+    <!--The weight sum property is used to divide the layout into
+    different parts and then giving each layout a particular weight
+    gives it that amount of space on the screen-->
+
+
+    <!--Since each parent layout will have a specific weight, we need
+    not give any width to those layout-->
+
+    <ImageView
+        android:id="@+id/imgRestaurantsImage"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:padding="5dp"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="centerCrop"/>
+
+    <RelativeLayout
+        android:layout_weight="3.3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/txtRestaurantsName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Name of the restaurant"
+            android:padding="8dp"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:fontFamily="casual"/>
+
+
+
+        <TextView
+            android:id="@+id/txtRestaurantsCost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="Rs/person"
+            android:padding="8dp"
+            android:layout_below="@id/txtRestaurantsName"
+            android:layout_marginTop="40dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:fontFamily="casual"/>
+    </RelativeLayout>
+
+
+    <!--Many times we see that texts have an image along with them to
+    their right or left. This is added with the help of the
+    drawableLeft (or drawableRight and so on) attribute-->
+
+    <TextView
+        android:id="@+id/txtRestaurantsRating"
+        android:layout_weight="1.2"
+        android:layout_width="0dp"
+        android:padding="4dp"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_hollow_heart"
+        android:textColor="#ffca28"
+        android:text="likes"
+        android:drawablePadding="4dp"
+        android:textSize="15sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+</LinearLayout>

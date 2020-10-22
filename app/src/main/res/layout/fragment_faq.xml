@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FaqFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Food Hygiene Rating"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:fontFamily="casual"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="15dp"
+        android:text="Que1. What are Food Hygiene Ratings?"
+        android:textSize="18sp"
+
+        android:textColor="#993366"
+        android:fontFamily="casual"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ans. The Hygiene Ratings system will help consumers choose where to eat from by giving them information about the hygiene standards. It isn’t easy to judge hygiene standards by appearances alone, so the rating gives you some idea of what’s going on in the kitchen, or behind closed doors."
+        android:textColor="#c994ab"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:paddingRight="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="15dp"
+        android:text="Que2. Who runs the Hygiene Ratings initiative?"
+        android:textSize="18sp"
+        android:textColor="#993366"
+        android:fontFamily="casual"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ans. Mommy Kitchen runs the Hygiene Ratings initiative in partnership with third-party auditors from accredited and reputable companies."
+        android:textColor="#c994ab"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:paddingRight="15dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="15dp"
+        android:text="Que3. What kinds of restaurants can get a Hygiene Rating?"
+        android:textSize="18sp"
+        android:textColor="#993366"
+        android:fontFamily="casual"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ans. Any restaurant that has a kitchen area where food is prepared can apply for a Hygiene Rating. This may include: Fine Dining,Casual dining,Cafe,Delivery Only,Bakery"
+        android:textColor="#c994ab"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:paddingRight="15dp"/>
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="120dp"
+    android:layout_gravity="right"
+    android:text="Contact Us:"
+    android:paddingRight="110dp"
+    android:textSize="17dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mommykitchen@foodie.com"
+        android:layout_gravity="right"
+        android:paddingRight="20dp"/>
+</LinearLayout>
