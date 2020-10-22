@@ -14,3 +14,4 @@ Main features of this android application are:
 <br>
 <hr>
 UI of the application:
+<br>
