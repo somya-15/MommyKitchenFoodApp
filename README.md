@@ -4,6 +4,8 @@ This is an effort to promote the kitchen food business of women who work from ho
 The android application is coded in Kotlin and the UI is made using XML, using the Android Studio IDE.
 This project is in it's early stage of development and currently it uses volley to send get and post request from the internshala serve through rest API calls and generates a list of restaurants with their details. The future scope of the project is to enable the application to use Google maps and locate the home kitchen services available in proximity which can serve food services for the app user. 
 
+#### Link To Project Demo Video: https://drive.google.com/file/d/1ti6alL7GSuA2WzQBDP4Yeis3cqJeXCqc/view?usp=sharing
+
 Main features of this android application are:
 <br>
 1.Recycler Views
@@ -23,5 +25,3 @@ UI of the application:
 ![Preview3](https://user-images.githubusercontent.com/73076997/96908436-40e2a580-14ba-11eb-923a-9bbb8aa94ab8.jpeg)
 <br>
 ![Preview4](https://user-images.githubusercontent.com/73076997/96909678-f8c48280-14bb-11eb-86eb-275d4f477b8b.jpeg)
-
-Link To Project Demo Video: 
